@@ -6,6 +6,7 @@ v1.1 - 2025-04-04
 # new feature
 - option to clear the fields in gui window
 # improvements
+- a backup of .db file is created on every run for safety purpose.
 - hint is now displayed on the same window instead in a pop-up window.
 - path for .db and config file is not relative now. 
 
