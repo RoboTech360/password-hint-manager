@@ -1,5 +1,4 @@
 # password-hint-manager
-# Local Password Hint Manager
 
 A simple local password manager that helps users store and manage password hints in a lcoal offline environment. This project allows you to securely store password hints for various apps or services, using a master password for access.
 
