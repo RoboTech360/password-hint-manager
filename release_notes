@@ -1,0 +1,13 @@
+v1.2 - 2025-04-05
+# new feature
+- added logging functionality for information and troubleshooting. a ./log.txt file will be created.
+
+v1.1 - 2025-04-04
+# new feature
+- option to clear the fields in gui window
+# improvements
+- hint is now displayed on the same window instead in a pop-up window.
+- path for .db and config file is not relative now. 
+
+v1.0 - 2025-04-04
+# initial build
