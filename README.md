@@ -13,7 +13,13 @@ A simple local password manager that helps users store and manage password hints
 ### Prerequisites
 To run this project, you need to have Python 3.x installed on your machine. You also need the `sqlite3` and `tkinter` modules, which are usually included with Python.
 
-### Installation
+### How to run this:
+run this main script
+python src/main_PasswordHintManager.py
+OR
+run with .bat file, see run_PasswordHintManager.bat file with example.
+
+### for local development and testing:
 1. Clone this repository:
    ```bash
    git clone https://github.com/robotech360/password-hint-manager.git
