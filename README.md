@@ -17,6 +17,8 @@ python src/main_PasswordHintManager.py
 OR
 run with .bat file, see run_PasswordHintManager.bat file with example.
 
+## see release notes for fixes and updates
+
 ### for local development and testing:
 
 ### Prerequisites
